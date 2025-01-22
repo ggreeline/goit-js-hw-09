@@ -3,10 +3,6 @@
 }
 .nav {
   display: flex;
-  justify-content: space-between;
-}
-.nav-logo {
-  display: inline-flex;
   align-items: center;
   justify-content: center;
 }
